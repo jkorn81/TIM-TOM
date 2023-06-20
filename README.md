@@ -46,9 +46,5 @@ TIM-TOM Process:
 
 Please note that while KBAI utilizes the same custom deep learning architecture as TIM-TOM, it serves as a dedicated Deep SARSA RL agent for testing agent parameters in live conditions using mt5's platform and API resources. KBAI's results during its live demo testing will contribute valuable data to optimize TIM-TOM's deployment resources. Monitoring KBAI's progress as it approaches the 60-day mark will provide significant insights for further enhancements and refinements.
 
-Snippet examples of TIM-TOM's training: 
-
-![signal-2023-06-19-201519_002](https://github.com/jkorn81/TIM-TOM/assets/47157865/935c26a2-82c1-43c5-b68e-b0a4eb8560b1)
-
-![signal-2023-06-19-225432_002](https://github.com/jkorn81/TIM-TOM/assets/47157865/733fb396-d83f-43f0-a1be-def4856d1a3a)
+If you are interested in learning more about TIM-TOM please reach out. We are looking for higher compute enviorments to overhaul the training/validation of TIM-TOM. 
 
