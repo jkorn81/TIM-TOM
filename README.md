@@ -48,7 +48,6 @@ Please note that while KBAI utilizes the same custom deep learning architecture 
 
 Snippet examples of TIM-TOM's training: 
 
-![signal-2023-06-19-225432_002](https://github.com/jkorn81/TIM-TOM/assets/47157865/733fb396-d83f-43f0-a1be-def4856d1a3a)
-
 ![signal-2023-06-19-201519_002](https://github.com/jkorn81/TIM-TOM/assets/47157865/935c26a2-82c1-43c5-b68e-b0a4eb8560b1)
 
+![signal-2023-06-19-225432_002](https://github.com/jkorn81/TIM-TOM/assets/47157865/733fb396-d83f-43f0-a1be-def4856d1a3a)
