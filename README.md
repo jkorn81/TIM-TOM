@@ -11,6 +11,7 @@ The decision policies in the current state of TIM-TOM encompass six action calls
 (5) Hold.
 (6) Close all positions.
 
+
 With this range of action calls and a customized position sizing strategy, the agent learns to interact effectively with its environment. We employ an optimization method that allows TIM-TOM to tune towards optimal decision policies for positive target outputs.
 
 This cutting-edge AI technology is designed to analyze and predict market trends swiftly and accurately, empowering the agents to make intelligent investing decisions and maximize returns. TIM-TOM, equipped with its powerful custom deep learning networks, demonstrates promising potential in identifying profitable trading opportunities. It exhibits the capability to execute trades with remarkable speed, precision, and consideration for associated fees. Furthermore, TIM-TOM is developed to enhance stability in the learned trading schemes, allowing for improved generalization over time and synchronization with a better risk and reward framework to achieve optimal target outputs.
@@ -43,5 +44,8 @@ TIM-TOM Process:
 
 - Refer to step 4. Once this is complete and TIM-TOM demonstrates expected performance in real market conditions for 60 days, TIM-TOM will be officially launched.
 
-
 Please note that while KBAI utilizes the same custom deep learning architecture as TIM-TOM, it serves as a dedicated Deep SARSA RL agent for testing agent parameters in live conditions using mt5's platform and API resources. KBAI's results during its live demo testing will contribute valuable data to optimize TIM-TOM's deployment resources. Monitoring KBAI's progress as it approaches the 60-day mark will provide significant insights for further enhancements and refinements.
+
+Snippet of TIM-TOM's training: 
+![signal-2023-06-19-225432_002](https://github.com/jkorn81/TIM-TOM/assets/47157865/733fb396-d83f-43f0-a1be-def4856d1a3a)
+
